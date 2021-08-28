@@ -49,18 +49,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "main": "index.js",
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/JuliyaRakytska/crwn-clothing.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/JuliyaRakytska/crwn-clothing/issues"
-  },
-  "homepage": "https://github.com/JuliyaRakytska/crwn-clothing#readme",
-  "description": ""
+  }
 }
